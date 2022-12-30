@@ -14,9 +14,12 @@ pnpm-lock.yaml
 
 # vuepress
 docs/.vuepress/dist
+docs/.vuepress/dist.zip
 
 # 百度链接推送
 urls.txt
 
 # mac
 .DS_Store
+
+/.idea
