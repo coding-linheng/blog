@@ -30,6 +30,14 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     nav: [
       { text: '首页', link: '/' },
       {
+        text: '前端',
+        link: '/web/',
+      },
+      {
+        text: '服务端',
+        link: '/server/',
+      },
+      {
         text: '技术',
         link: '/technology/',
         items: [
